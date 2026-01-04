@@ -1,0 +1,13 @@
+This system analyzes password security using **algorithmic and data structure-based methods**.  
+
+##Dataset Description – Advanced Secure Password Analysis
+- Human-chosen passwords often follow **predictable patterns, keyboard sequences, and common mutations**.  
+- **DSA techniques** like **Tries, Hashing, BFS, and DP** efficiently detect these weaknesses.  
+- **Breach data and dictionaries** simulate **real-world attacks** and estimate **guessability**.  
+- **Probabilistic models** compute **expected number of guesses** and **entropy**, providing a realistic risk score.  
+
+## Use in Project
+- **Trie Analysis:** Detect structural weaknesses in passwords.  
+- **Hashing & Bloom Filter:** Fast and privacy-preserving breach detection.  
+- **BFS Attack Simulation:** Generate possible attacker guesses efficiently.  
+- **Risk Scoring:** Combine structural, probabilistic, and breach data for explainable feedback.
