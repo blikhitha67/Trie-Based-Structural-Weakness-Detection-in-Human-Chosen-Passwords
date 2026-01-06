@@ -1,4 +1,7 @@
-## Overview
+# Trie-Based-Structural-Weakness-Detection-in-Human-Chosen-Passwords
+
+## Project Overview
+
 The **Advanced Secure Password Analysis System** is a research-grade project designed to evaluate the security of human-chosen passwords using **algorithmic and data structure-driven approaches**. Unlike conventional password strength checkers, this system models **real-world attack scenarios**, estimates **guessability**, and provides **explainable security feedback**.  
 
 It leverages:
